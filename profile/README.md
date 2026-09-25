@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://internal.veeona.com">
+  <a href="https://veeona.com">
     <img src="https://langevc.com/veeona/veeona-wordmark.svg" alt="Veeona" width="360">
   </a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://langevc.com/veeona">Brand Guide</a> · <a href="https://internal.veeona.com">Internal Docs</a>
+  <a href="https://veeona.com">Website</a> · <a href="https://docs.veeona.com">Documentation</a> · <a href="https://langevc.com/veeona">Brand Guide</a>
 </p>
 
 ---
